@@ -189,11 +189,6 @@ function ambitions() {
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       target="_blank"
   /></a> 
-  <a href="https://app.rocketseat.com.br/me/leonardo-martins"
-    ><img
-      src="https://img.shields.io/badge/-ROCKETSEAT-blueviolet?style=for-the-badge"
-      target="_blank"
-  /></a> 
 </div>
 <br>
 <br>
@@ -204,7 +199,7 @@ function ambitions() {
 # My GitHub Stats
 <p align="center">
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=leolongobuco&show_icons=true&theme=radical" alt="leonardo's stats"/>
-<img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolongobuco&layout=compact&theme=radical" alt="leonardos's most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolongobuco&layout=compact&theme=radical" alt="leonardos's most languages"/>
 </p>
 
 <!--
