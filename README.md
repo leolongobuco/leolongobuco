@@ -189,6 +189,11 @@ function ambitions() {
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       target="_blank"
   /></a> 
+ <a href="https://app.rocketseat.com.br/me/leonardo-martins"
+    ><img
+      src="https://img.shields.io/badge/-ROCKETSEAT-blueviolet?style=for-the-badge"
+      target="_blank"
+  /></a> 
 </div>
 <br>
 <br>
