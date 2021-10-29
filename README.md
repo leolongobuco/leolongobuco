@@ -49,7 +49,7 @@ function ambitions() {
 - 🔭 I’m currently working on Sinch    
 - 💬 Ask me about Node.js    
 - 📫 How to reach me: longobucoleonardo@gmail.com
-- 👨‍🎓 Student at Senac Informática: Computer Technician
+- 👨‍🎓 Student at Senac Tech: Computer Technician
 - 👨‍🎓 Student at Bootcamp Ignite on the trail of Node.js
   
 <br>
