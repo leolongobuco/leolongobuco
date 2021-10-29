@@ -11,9 +11,9 @@ const whoAmI = {
   currentEducation: "Rocketseat",
   hobbies: [
     "Studying",
-    "Play soccer",
+    "Playing soccer",
     "Watching movies and series",
-    "Play video games",
+    "Playing video games",
   ],
 };
 
@@ -21,12 +21,12 @@ function getCurrentCity() {
   return "Porto Alegre - Brazil";
 }
   
-function focus() {
-  learnTypescript();
-  learnPrismaORM();
-  learnAWSServices();
-  learnGraphQL();
-  learnCleanCode();
+function focusingOn() {
+  learningTypescript();
+  learningPrismaORM();
+  learningAWSServices();
+  learningGraphQL();
+  learningCleanCode();
 }
 
 function neverStopLearning() {
@@ -34,9 +34,9 @@ function neverStopLearning() {
 }
 
 function ambitions() {
-  travelToSpain();
-  participateInProjectsOpenSource();
-  becomeBackendExpert();
+  toTravelToSpain();
+  toParticipateInProjectsOpenSource();
+  toBecomeBackendExpert();
   //And much more
 }
 ```
@@ -46,7 +46,7 @@ function ambitions() {
 	align="right"
 />
   
-- 🔭 I’m currently working on Sinch    
+- 🔭 I’m currently working at Sinch    
 - 💬 Ask me about Node.js    
 - 📫 How to reach me: longobucoleonardo@gmail.com
 - 👨‍🎓 Student at Senac Tech: Computer Technician
