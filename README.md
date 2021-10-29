@@ -204,7 +204,7 @@ function ambitions() {
 # My GitHub Stats
 <p align="center">
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=leolongobuco&show_icons=true&theme=radical" alt="leonardo's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolongobuco&layout=compact&theme=radical" alt="leonardos's most languages"/>
+<img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolongobuco&layout=compact&theme=radical" alt="leonardos's most languages"/>
 </p>
 
 <!--
