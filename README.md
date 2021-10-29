@@ -175,7 +175,7 @@ function ambitions() {
 <h1 align="left">Connect with me</h3> 
   <img
 	src="https://media.giphy.com/media/3orif98JuDVUWbgIog/giphy.gif"
-	width="25%"
+	width="26%"
 	align="right"
 />
 <div>
