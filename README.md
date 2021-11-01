@@ -208,6 +208,7 @@ function ambitions() {
 </p>
 
 <!--
+![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
 **leolongobuco/leolongobuco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
