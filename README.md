@@ -46,7 +46,7 @@ function ambitions() {
 	align="right"
 />
   
-- 🔭 I’m currently working at Sinch    
+- 🔭 I’m currently working at StoneCo    
 - 💬 Ask me about Node.js    
 - 📫 How to reach me: longobucoleonardo@gmail.com
 - 👨‍🎓 Student at Senac Tech: Computer Technician
