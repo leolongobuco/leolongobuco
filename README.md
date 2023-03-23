@@ -49,7 +49,7 @@ function ambitions() {
 - 🔭 I’m currently working at Stone    
 - 💬 Ask me about Node.js    
 - 📫 How to reach me: longobucoleonardo@gmail.com
-- 👨‍🎓 Student at Senac Tech: Computer Technician
+- 👨‍🎓 Computer technical graduate by Senac
 - 👨‍🎓 Student at Bootcamp Ignite on the trail of Node.js
   
 <br>
